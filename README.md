@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zosia6105 and I'm a student at Warsaw School of Economics
+- 👀 I’m interested in machine learning, programming and many other things like piano :)
+- 🌱 I’m currently upgrading my overall data science and data analysis skills and planning to start learning norwegian.
